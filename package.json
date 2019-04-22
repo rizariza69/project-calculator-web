@@ -1,0 +1,11 @@
+{
+  "name": "project-javascript-dom-calculator",
+  "version": "1.0.0",
+  "description": "Calculator is a popular application to calculate numbers with variety of mathematical operations. A complete Calculator app should able to do:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

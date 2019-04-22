@@ -1,0 +1,173 @@
+body {
+  background-color: aqua;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+
+.calculator {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 40px;
+  flex-direction: column;
+  background-color: gainsboro;
+  padding: 20px;
+}
+
+.clear {
+  width: 42px;
+  height: 40px;
+}
+
+.screen {
+  display: flex;
+  text-align: end;
+  border: black solid 1px;
+  width: 200px;
+  font-size: 25px;
+  margin-left: 10px;
+  padding-right: 10px;
+
+}
+
+.row1 {
+  display: flex;
+}
+
+.row2 {
+  display: flex;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.one {
+  width: 42px;
+  height: 40px;
+  margin-top: 20px;
+
+}
+
+.two {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.three {
+  width: 42px;
+  height: 40px;
+
+
+}
+
+.add {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+
+}
+
+.row3 {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.four {
+  width: 42px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.five {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.six {
+  width: 42px;
+  height: 40px;
+}
+
+.substract {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.row4 {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.seven {
+  width: 42px;
+  height: 40px;
+  margin-top: 20px;
+
+}
+
+.eight {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.nine {
+  width: 42px;
+  height: 40px;
+
+
+}
+
+.multiply {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.row4 {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
+
+.zero {
+  width: 42px;
+  height: 40px;
+  margin-top: 20px;
+
+}
+
+.coma {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+}
+
+.equals {
+  width: 42px;
+  height: 40px;
+
+
+}
+
+.divide {
+  width: 42px;
+  height: 40px;
+  margin: 0 20px;
+
+}
